@@ -1,0 +1,41 @@
+http://omz-software.com/pythonista/docs/ios/index.html
+
+Pythonista Modules
+The following modules have been created for Pythonista and provide iOS-specific functionality.
+appex — Using the Pythonista Sharing Extension
+canvas — Vector Graphics
+cb — Connecting to Bluetooth LE Peripherals
+clipboard — Copy and paste
+console — Utilities for Console Output and Various System Services
+dialogs — Easy-to-use UI Dialogs
+contacts — Access the iOS Contacts Database
+editor — Functions for scripting Pythonista’s text editor
+keychain — Secure Password Storage
+linguistictagger — Linguistic analysis
+location — Geo-Location Services on iOS
+motion — Motion Sensor Data on iOS
+notification — Notifications on iOS
+objc_util — Utilities for bridging Objective-C APIs
+photos — Photo Library Access on iOS
+reminders — Access to the iOS Reminders Database
+scene — 2D Games and Animations
+sound — Sound effects and music playback
+speech — Text-to-Speech on iOS
+twitter — iOS Twitter Accounts and API Access
+ui — Native GUI for iOS
+
+Extras
+The following popular third-party modules are also included with Pythonista. They are not part of the Python Standard Library, but they are not specific to iOS.
+bs4 — BeautifulSoup 4
+Bottle: Python Web Framework
+Dropbox for Python
+evernote
+faker
+feedparser — Universal Feed Parser
+Markdown
+markdown2 — A fast and complete implementation of Markdown in Python
+paramiko
+Python Imaging Library
+qrcode — Pure python QR Code generator
+Requests – HTTP for Humans
+xmltodict

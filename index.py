@@ -4,4 +4,4 @@ from bottle import route, run, template
 def index():
   return 'Bottle sample'
 
-run(host='localhost', port=8080, debug=True, reloader=True)
+run(host='localhost', port=8080, debug=True)

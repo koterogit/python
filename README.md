@@ -1,2 +1,0 @@
-# pythonista
-for Pythonista app

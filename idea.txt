@@ -1,0 +1,6 @@
+GTD CLI
+
+- directory parser
+- setting.json
+- init
+- sort
